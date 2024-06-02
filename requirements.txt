@@ -6,4 +6,4 @@ matplotlib
 seaborn
 jupyter
 streamlit
-st-aggrid
+git+https://github.com/PablocFonseca/streamlit-aggrid.git
